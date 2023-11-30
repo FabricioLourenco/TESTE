@@ -1,0 +1,22 @@
+C:\Development\Workspace\GreenTech\GreenTech\GreenTech.Domain\bin\Debug\net6.0\GreenTech.Domain.deps.json
+C:\Development\Workspace\GreenTech\GreenTech\GreenTech.Domain\bin\Debug\net6.0\GreenTech.Domain.dll
+C:\Development\Workspace\GreenTech\GreenTech\GreenTech.Domain\bin\Debug\net6.0\GreenTech.Domain.pdb
+C:\Development\Workspace\GreenTech\GreenTech\GreenTech.Domain\obj\Debug\net6.0\GreenTech.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Development\Workspace\GreenTech\GreenTech\GreenTech.Domain\obj\Debug\net6.0\GreenTech.Domain.AssemblyInfoInputs.cache
+C:\Development\Workspace\GreenTech\GreenTech\GreenTech.Domain\obj\Debug\net6.0\GreenTech.Domain.AssemblyInfo.cs
+C:\Development\Workspace\GreenTech\GreenTech\GreenTech.Domain\obj\Debug\net6.0\GreenTech.Domain.csproj.CoreCompileInputs.cache
+C:\Development\Workspace\GreenTech\GreenTech\GreenTech.Domain\obj\Debug\net6.0\GreenTech.Domain.dll
+C:\Development\Workspace\GreenTech\GreenTech\GreenTech.Domain\obj\Debug\net6.0\refint\GreenTech.Domain.dll
+C:\Development\Workspace\GreenTech\GreenTech\GreenTech.Domain\obj\Debug\net6.0\GreenTech.Domain.pdb
+C:\Development\Workspace\GreenTech\GreenTech\GreenTech.Domain\obj\Debug\net6.0\ref\GreenTech.Domain.dll
+C:\Users\fabricio.lourenço\Desktop\Nova pasta\TrainneQuestor2023\Projeto\GreenTech\GreenTech.Domain\bin\Debug\net6.0\GreenTech.Domain.deps.json
+C:\Users\fabricio.lourenço\Desktop\Nova pasta\TrainneQuestor2023\Projeto\GreenTech\GreenTech.Domain\bin\Debug\net6.0\GreenTech.Domain.dll
+C:\Users\fabricio.lourenço\Desktop\Nova pasta\TrainneQuestor2023\Projeto\GreenTech\GreenTech.Domain\bin\Debug\net6.0\GreenTech.Domain.pdb
+C:\Users\fabricio.lourenço\Desktop\Nova pasta\TrainneQuestor2023\Projeto\GreenTech\GreenTech.Domain\obj\Debug\net6.0\GreenTech.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fabricio.lourenço\Desktop\Nova pasta\TrainneQuestor2023\Projeto\GreenTech\GreenTech.Domain\obj\Debug\net6.0\GreenTech.Domain.AssemblyInfoInputs.cache
+C:\Users\fabricio.lourenço\Desktop\Nova pasta\TrainneQuestor2023\Projeto\GreenTech\GreenTech.Domain\obj\Debug\net6.0\GreenTech.Domain.AssemblyInfo.cs
+C:\Users\fabricio.lourenço\Desktop\Nova pasta\TrainneQuestor2023\Projeto\GreenTech\GreenTech.Domain\obj\Debug\net6.0\GreenTech.Domain.csproj.CoreCompileInputs.cache
+C:\Users\fabricio.lourenço\Desktop\Nova pasta\TrainneQuestor2023\Projeto\GreenTech\GreenTech.Domain\obj\Debug\net6.0\GreenTech.Domain.dll
+C:\Users\fabricio.lourenço\Desktop\Nova pasta\TrainneQuestor2023\Projeto\GreenTech\GreenTech.Domain\obj\Debug\net6.0\refint\GreenTech.Domain.dll
+C:\Users\fabricio.lourenço\Desktop\Nova pasta\TrainneQuestor2023\Projeto\GreenTech\GreenTech.Domain\obj\Debug\net6.0\GreenTech.Domain.pdb
+C:\Users\fabricio.lourenço\Desktop\Nova pasta\TrainneQuestor2023\Projeto\GreenTech\GreenTech.Domain\obj\Debug\net6.0\ref\GreenTech.Domain.dll

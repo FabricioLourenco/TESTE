@@ -1,0 +1,33 @@
+﻿@using GreenTech.Domain.Dtos
+@using GreenTech.Domain.Enuns
+@model DadosDto
+
+<form class="row g-3" method="post">
+
+    <h1>Insira seus Dados</h1>
+
+    <div class="col-md-6">
+        <label class="form-label" asp-for="Nome"></label>
+        <input type="text" class="form-control" asp-for="Nome">
+    </div>
+
+    <div class="col-md-6">
+        <label class="form-label" asp-for="CPFouCNPJ"></label>
+        <input type="text" class="form-control" asp-for="CPFouCNPJ">
+    </div>
+
+    <div class="col-md-6">
+        <label class="form-label" asp-for="Telefone"></label>
+        <input type="text" class="form-control" asp-for="Telefone">
+    </div>
+
+    <div class="col-md-6">
+        <label class="form-label" asp-for="CNAE"></label>
+        <input type="text" class="form-control" asp-for="CNAE">
+    </div>
+
+    <div class="col-12">
+        <button type="submit" class="btn btn-primary">Salvar</button>
+    </div>
+
+</form>

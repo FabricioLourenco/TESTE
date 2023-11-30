@@ -1,0 +1,39 @@
+﻿@using GreenTech.Domain.Entidades
+
+@{
+    var residuos = (List<CadastroResiduo>)ViewBag.CadastroResiduo;
+}
+
+<h1>Residuos Cadastrados</h1>
+
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th scope="col">#</th>
+            <th scope="col">TipoResiduo</th>
+            <th scope="col">Quantidade</th>
+            <th scope="col">UnidadeMedida</th>
+            <th scope="col">Usuario</th>
+            <th scope="col">Telefone</th>
+            <th scope="col">Ações</th>
+
+        </tr>
+    </thead>
+    <tbody>
+        @{
+            foreach (var residuo in residuos)
+            {
+
+                <tr>
+                    <th scope="row">@residuo.Id</th>
+                    <td>@residuo.TipoResiduo</td>
+                    <td>@residuo.Quantidade</td>
+                    <td>@residuo.UnidadeMedida</td>
+                    <td>@residuo.Quantidade</td>
+                    <td>@residuo.Quantidade</td>
+                    <td><a href="Cliente/Remover/@residuo.Id"><i class="bi bi-trash2"></i></a> </td>
+                </tr>
+            }
+        }
+    </tbody>
+</table>

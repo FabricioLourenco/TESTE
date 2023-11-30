@@ -1,0 +1,73 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = GreenTech
+build_property.RootNamespace = GreenTech
+build_property.ProjectDir = C:\Users\fabricio.lourenço\Desktop\Nova pasta\TrainneQuestor2023\Projeto\GreenTech\GreenTech\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\fabricio.lourenço\Desktop\Nova pasta\TrainneQuestor2023\Projeto\GreenTech\GreenTech
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/fabricio.lourenço/Desktop/Nova pasta/TrainneQuestor2023/Projeto/GreenTech/GreenTech/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/fabricio.lourenço/Desktop/Nova pasta/TrainneQuestor2023/Projeto/GreenTech/GreenTech/Views/Home/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxMb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/fabricio.lourenço/Desktop/Nova pasta/TrainneQuestor2023/Projeto/GreenTech/GreenTech/Views/Home/Sobre.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxTb2JyZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/fabricio.lourenço/Desktop/Nova pasta/TrainneQuestor2023/Projeto/GreenTech/GreenTech/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/fabricio.lourenço/Desktop/Nova pasta/TrainneQuestor2023/Projeto/GreenTech/GreenTech/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/fabricio.lourenço/Desktop/Nova pasta/TrainneQuestor2023/Projeto/GreenTech/GreenTech/Views/Usuario/CadastroDados.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb1xDYWRhc3Ryb0RhZG9zLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/fabricio.lourenço/Desktop/Nova pasta/TrainneQuestor2023/Projeto/GreenTech/GreenTech/Views/Usuario/CadastroEndereco.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb1xDYWRhc3Ryb0VuZGVyZWNvLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/fabricio.lourenço/Desktop/Nova pasta/TrainneQuestor2023/Projeto/GreenTech/GreenTech/Views/Usuario/CadastroResiduo.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb1xDYWRhc3Ryb1Jlc2lkdW8uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/fabricio.lourenço/Desktop/Nova pasta/TrainneQuestor2023/Projeto/GreenTech/GreenTech/Views/Usuario/CadastroUsuario.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb1xDYWRhc3Ryb1VzdWFyaW8uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/fabricio.lourenço/Desktop/Nova pasta/TrainneQuestor2023/Projeto/GreenTech/GreenTech/Views/Usuario/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/fabricio.lourenço/Desktop/Nova pasta/TrainneQuestor2023/Projeto/GreenTech/GreenTech/Views/Usuario/VerMeusResiduos.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb1xWZXJNZXVzUmVzaWR1b3MuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/fabricio.lourenço/Desktop/Nova pasta/TrainneQuestor2023/Projeto/GreenTech/GreenTech/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/fabricio.lourenço/Desktop/Nova pasta/TrainneQuestor2023/Projeto/GreenTech/GreenTech/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/fabricio.lourenço/Desktop/Nova pasta/TrainneQuestor2023/Projeto/GreenTech/GreenTech/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-0a678cb4m8

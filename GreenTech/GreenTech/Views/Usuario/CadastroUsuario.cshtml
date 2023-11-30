@@ -1,0 +1,29 @@
+﻿@using GreenTech.Domain.Dtos
+@using GreenTech.Domain.Entidades;
+@using GreenTech.Domain.Enuns
+@model UsuarioDto
+
+<form class="row g-3" method="post">
+
+    <h1>Cadastro de novos Usuarios</h1>
+
+    <div class="col-md-6">
+        <label class="form-label" asp-for="Email"></label>
+        <input type="text" class="form-control" asp-for="Email">
+    </div>
+
+    <div class="col-md-6">
+        <label class="form-label" asp-for="Senha"></label>
+        <input type="text" class="form-control" asp-for="Senha">
+    </div>
+
+    <div class="col-6">
+        <label class="form-label" asp-for="TipoUsuario"></label>
+        <select asp-for="TipoUsuario" class="form-control" asp-items="Html.GetEnumSelectList<TipoUsuarioEnum>()"></select>
+    </div>
+
+    <div class="col-12">
+        <button type="submit" class="btn btn-primary">Salvar</button>
+    </div>
+
+</form>

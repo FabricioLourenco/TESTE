@@ -1,0 +1,34 @@
+C:\Development\Workspace\GreenTech\GreenTech\GreenTechRepository\bin\Debug\net6.0\GreenTech.Repository.deps.json
+C:\Development\Workspace\GreenTech\GreenTech\GreenTechRepository\bin\Debug\net6.0\GreenTech.Repository.runtimeconfig.json
+C:\Development\Workspace\GreenTech\GreenTech\GreenTechRepository\bin\Debug\net6.0\GreenTech.Repository.dll
+C:\Development\Workspace\GreenTech\GreenTech\GreenTechRepository\bin\Debug\net6.0\GreenTech.Repository.pdb
+C:\Development\Workspace\GreenTech\GreenTech\GreenTechRepository\bin\Debug\net6.0\GreenTech.Domain.dll
+C:\Development\Workspace\GreenTech\GreenTech\GreenTechRepository\bin\Debug\net6.0\GreenTech.Domain.pdb
+C:\Development\Workspace\GreenTech\GreenTech\GreenTechRepository\obj\Debug\net6.0\GreenTech.Repository.csproj.AssemblyReference.cache
+C:\Development\Workspace\GreenTech\GreenTech\GreenTechRepository\obj\Debug\net6.0\GreenTech.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Development\Workspace\GreenTech\GreenTech\GreenTechRepository\obj\Debug\net6.0\GreenTech.Repository.AssemblyInfoInputs.cache
+C:\Development\Workspace\GreenTech\GreenTech\GreenTechRepository\obj\Debug\net6.0\GreenTech.Repository.AssemblyInfo.cs
+C:\Development\Workspace\GreenTech\GreenTech\GreenTechRepository\obj\Debug\net6.0\GreenTech.Repository.csproj.CoreCompileInputs.cache
+C:\Development\Workspace\GreenTech\GreenTech\GreenTechRepository\obj\Debug\net6.0\GreenTech.Repository.csproj.CopyComplete
+C:\Development\Workspace\GreenTech\GreenTech\GreenTechRepository\obj\Debug\net6.0\GreenTech.Repository.dll
+C:\Development\Workspace\GreenTech\GreenTech\GreenTechRepository\obj\Debug\net6.0\refint\GreenTech.Repository.dll
+C:\Development\Workspace\GreenTech\GreenTech\GreenTechRepository\obj\Debug\net6.0\GreenTech.Repository.pdb
+C:\Development\Workspace\GreenTech\GreenTech\GreenTechRepository\obj\Debug\net6.0\GreenTech.Repository.genruntimeconfig.cache
+C:\Development\Workspace\GreenTech\GreenTech\GreenTechRepository\obj\Debug\net6.0\ref\GreenTech.Repository.dll
+C:\Users\fabricio.lourenço\Desktop\Nova pasta\TrainneQuestor2023\Projeto\GreenTech\GreenTechRepository\bin\Debug\net6.0\GreenTech.Repository.deps.json
+C:\Users\fabricio.lourenço\Desktop\Nova pasta\TrainneQuestor2023\Projeto\GreenTech\GreenTechRepository\bin\Debug\net6.0\GreenTech.Repository.runtimeconfig.json
+C:\Users\fabricio.lourenço\Desktop\Nova pasta\TrainneQuestor2023\Projeto\GreenTech\GreenTechRepository\bin\Debug\net6.0\GreenTech.Repository.dll
+C:\Users\fabricio.lourenço\Desktop\Nova pasta\TrainneQuestor2023\Projeto\GreenTech\GreenTechRepository\bin\Debug\net6.0\GreenTech.Repository.pdb
+C:\Users\fabricio.lourenço\Desktop\Nova pasta\TrainneQuestor2023\Projeto\GreenTech\GreenTechRepository\bin\Debug\net6.0\GreenTech.Domain.dll
+C:\Users\fabricio.lourenço\Desktop\Nova pasta\TrainneQuestor2023\Projeto\GreenTech\GreenTechRepository\bin\Debug\net6.0\GreenTech.Domain.pdb
+C:\Users\fabricio.lourenço\Desktop\Nova pasta\TrainneQuestor2023\Projeto\GreenTech\GreenTechRepository\obj\Debug\net6.0\GreenTech.Repository.csproj.AssemblyReference.cache
+C:\Users\fabricio.lourenço\Desktop\Nova pasta\TrainneQuestor2023\Projeto\GreenTech\GreenTechRepository\obj\Debug\net6.0\GreenTech.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fabricio.lourenço\Desktop\Nova pasta\TrainneQuestor2023\Projeto\GreenTech\GreenTechRepository\obj\Debug\net6.0\GreenTech.Repository.AssemblyInfoInputs.cache
+C:\Users\fabricio.lourenço\Desktop\Nova pasta\TrainneQuestor2023\Projeto\GreenTech\GreenTechRepository\obj\Debug\net6.0\GreenTech.Repository.AssemblyInfo.cs
+C:\Users\fabricio.lourenço\Desktop\Nova pasta\TrainneQuestor2023\Projeto\GreenTech\GreenTechRepository\obj\Debug\net6.0\GreenTech.Repository.csproj.CoreCompileInputs.cache
+C:\Users\fabricio.lourenço\Desktop\Nova pasta\TrainneQuestor2023\Projeto\GreenTech\GreenTechRepository\obj\Debug\net6.0\GreenTech.Repository.csproj.CopyComplete
+C:\Users\fabricio.lourenço\Desktop\Nova pasta\TrainneQuestor2023\Projeto\GreenTech\GreenTechRepository\obj\Debug\net6.0\GreenTech.Repository.dll
+C:\Users\fabricio.lourenço\Desktop\Nova pasta\TrainneQuestor2023\Projeto\GreenTech\GreenTechRepository\obj\Debug\net6.0\refint\GreenTech.Repository.dll
+C:\Users\fabricio.lourenço\Desktop\Nova pasta\TrainneQuestor2023\Projeto\GreenTech\GreenTechRepository\obj\Debug\net6.0\GreenTech.Repository.pdb
+C:\Users\fabricio.lourenço\Desktop\Nova pasta\TrainneQuestor2023\Projeto\GreenTech\GreenTechRepository\obj\Debug\net6.0\GreenTech.Repository.genruntimeconfig.cache
+C:\Users\fabricio.lourenço\Desktop\Nova pasta\TrainneQuestor2023\Projeto\GreenTech\GreenTechRepository\obj\Debug\net6.0\ref\GreenTech.Repository.dll

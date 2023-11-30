@@ -1,0 +1,30 @@
+﻿@using GreenTech.Domain.Dtos
+@using GreenTech.Domain.Enuns
+@model CadastroResiduoDto
+
+<form class="row g-3" method="post">
+
+    <h1>Insira seu Resíduo</h1>
+
+    
+
+    <div class="col-6">
+        <label class="form-label" asp-for="TipoResiduo"></label>
+        <select asp-for="TipoResiduo" class="form-control" asp-items="Html.GetEnumSelectList<TipoResiduoEnum>()"></select>
+    </div>
+
+    <div class="col-md-6">
+        <label class="form-label" asp-for="Quantidade"></label>
+        <input type="text" class="form-control" asp-for="Quantidade">
+    </div>
+
+    <div class="col-6">
+        <label class="form-label" asp-for="UnidadeMedida"></label>
+        <select asp-for="UnidadeMedida" class="form-control" asp-items="Html.GetEnumSelectList<UnidadeMedidaEnum>()"></select>
+    </div>
+
+    <div class="col-12">
+        <button type="submit" class="btn btn-primary">Salvar</button>
+    </div>
+
+</form>

@@ -1,0 +1,96 @@
+C:\Development\Workspace\GreenTech\GreenTech\GreenTech\bin\Debug\net6.0\appsettings.Development.json
+C:\Development\Workspace\GreenTech\GreenTech\GreenTech\bin\Debug\net6.0\appsettings.json
+C:\Development\Workspace\GreenTech\GreenTech\GreenTech\bin\Debug\net6.0\GreenTech.staticwebassets.runtime.json
+C:\Development\Workspace\GreenTech\GreenTech\GreenTech\bin\Debug\net6.0\GreenTech.exe
+C:\Development\Workspace\GreenTech\GreenTech\GreenTech\bin\Debug\net6.0\GreenTech.deps.json
+C:\Development\Workspace\GreenTech\GreenTech\GreenTech\bin\Debug\net6.0\GreenTech.runtimeconfig.json
+C:\Development\Workspace\GreenTech\GreenTech\GreenTech\bin\Debug\net6.0\GreenTech.dll
+C:\Development\Workspace\GreenTech\GreenTech\GreenTech\bin\Debug\net6.0\GreenTech.pdb
+C:\Development\Workspace\GreenTech\GreenTech\GreenTech\obj\Debug\net6.0\GreenTech.GeneratedMSBuildEditorConfig.editorconfig
+C:\Development\Workspace\GreenTech\GreenTech\GreenTech\obj\Debug\net6.0\GreenTech.AssemblyInfoInputs.cache
+C:\Development\Workspace\GreenTech\GreenTech\GreenTech\obj\Debug\net6.0\GreenTech.AssemblyInfo.cs
+C:\Development\Workspace\GreenTech\GreenTech\GreenTech\obj\Debug\net6.0\GreenTech.csproj.CoreCompileInputs.cache
+C:\Development\Workspace\GreenTech\GreenTech\GreenTech\obj\Debug\net6.0\GreenTech.MvcApplicationPartsAssemblyInfo.cache
+C:\Development\Workspace\GreenTech\GreenTech\GreenTech\obj\Debug\net6.0\GreenTech.RazorAssemblyInfo.cache
+C:\Development\Workspace\GreenTech\GreenTech\GreenTech\obj\Debug\net6.0\GreenTech.RazorAssemblyInfo.cs
+C:\Development\Workspace\GreenTech\GreenTech\GreenTech\obj\Debug\net6.0\staticwebassets\msbuild.GreenTech.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Development\Workspace\GreenTech\GreenTech\GreenTech\obj\Debug\net6.0\staticwebassets\msbuild.build.GreenTech.props
+C:\Development\Workspace\GreenTech\GreenTech\GreenTech\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.GreenTech.props
+C:\Development\Workspace\GreenTech\GreenTech\GreenTech\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.GreenTech.props
+C:\Development\Workspace\GreenTech\GreenTech\GreenTech\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Development\Workspace\GreenTech\GreenTech\GreenTech\obj\Debug\net6.0\staticwebassets.build.json
+C:\Development\Workspace\GreenTech\GreenTech\GreenTech\obj\Debug\net6.0\staticwebassets.development.json
+C:\Development\Workspace\GreenTech\GreenTech\GreenTech\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Development\Workspace\GreenTech\GreenTech\GreenTech\obj\Debug\net6.0\scopedcss\bundle\GreenTech.styles.css
+C:\Development\Workspace\GreenTech\GreenTech\GreenTech\obj\Debug\net6.0\scopedcss\projectbundle\GreenTech.bundle.scp.css
+C:\Development\Workspace\GreenTech\GreenTech\GreenTech\obj\Debug\net6.0\GreenTech.dll
+C:\Development\Workspace\GreenTech\GreenTech\GreenTech\obj\Debug\net6.0\refint\GreenTech.dll
+C:\Development\Workspace\GreenTech\GreenTech\GreenTech\obj\Debug\net6.0\GreenTech.pdb
+C:\Development\Workspace\GreenTech\GreenTech\GreenTech\obj\Debug\net6.0\GreenTech.genruntimeconfig.cache
+C:\Development\Workspace\GreenTech\GreenTech\GreenTech\obj\Debug\net6.0\ref\GreenTech.dll
+C:\Development\Workspace\GreenTech\GreenTech\GreenTech\bin\Debug\net6.0\AutoMapper.dll
+C:\Development\Workspace\GreenTech\GreenTech\GreenTech\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Development\Workspace\GreenTech\GreenTech\GreenTech\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Development\Workspace\GreenTech\GreenTech\GreenTech\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Development\Workspace\GreenTech\GreenTech\GreenTech\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Development\Workspace\GreenTech\GreenTech\GreenTech\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Development\Workspace\GreenTech\GreenTech\GreenTech\bin\Debug\net6.0\Npgsql.dll
+C:\Development\Workspace\GreenTech\GreenTech\GreenTech\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Development\Workspace\GreenTech\GreenTech\GreenTech\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Development\Workspace\GreenTech\GreenTech\GreenTech\bin\Debug\net6.0\GreenTech.Domain.dll
+C:\Development\Workspace\GreenTech\GreenTech\GreenTech\bin\Debug\net6.0\GreenTech.Repository.dll
+C:\Development\Workspace\GreenTech\GreenTech\GreenTech\bin\Debug\net6.0\GreenTech.Service.dll
+C:\Development\Workspace\GreenTech\GreenTech\GreenTech\bin\Debug\net6.0\GreenTech.Domain.pdb
+C:\Development\Workspace\GreenTech\GreenTech\GreenTech\bin\Debug\net6.0\GreenTech.Service.pdb
+C:\Development\Workspace\GreenTech\GreenTech\GreenTech\bin\Debug\net6.0\GreenTech.Repository.pdb
+C:\Development\Workspace\GreenTech\GreenTech\GreenTech\obj\Debug\net6.0\GreenTech.csproj.AssemblyReference.cache
+C:\Development\Workspace\GreenTech\GreenTech\GreenTech\obj\Debug\net6.0\GreenTech.csproj.CopyComplete
+C:\Users\fabricio.lourenço\Desktop\Nova pasta\TrainneQuestor2023\Projeto\GreenTech\GreenTech\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\fabricio.lourenço\Desktop\Nova pasta\TrainneQuestor2023\Projeto\GreenTech\GreenTech\bin\Debug\net6.0\appsettings.json
+C:\Users\fabricio.lourenço\Desktop\Nova pasta\TrainneQuestor2023\Projeto\GreenTech\GreenTech\bin\Debug\net6.0\GreenTech.staticwebassets.runtime.json
+C:\Users\fabricio.lourenço\Desktop\Nova pasta\TrainneQuestor2023\Projeto\GreenTech\GreenTech\bin\Debug\net6.0\GreenTech.exe
+C:\Users\fabricio.lourenço\Desktop\Nova pasta\TrainneQuestor2023\Projeto\GreenTech\GreenTech\bin\Debug\net6.0\GreenTech.deps.json
+C:\Users\fabricio.lourenço\Desktop\Nova pasta\TrainneQuestor2023\Projeto\GreenTech\GreenTech\bin\Debug\net6.0\GreenTech.runtimeconfig.json
+C:\Users\fabricio.lourenço\Desktop\Nova pasta\TrainneQuestor2023\Projeto\GreenTech\GreenTech\bin\Debug\net6.0\GreenTech.dll
+C:\Users\fabricio.lourenço\Desktop\Nova pasta\TrainneQuestor2023\Projeto\GreenTech\GreenTech\bin\Debug\net6.0\GreenTech.pdb
+C:\Users\fabricio.lourenço\Desktop\Nova pasta\TrainneQuestor2023\Projeto\GreenTech\GreenTech\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\fabricio.lourenço\Desktop\Nova pasta\TrainneQuestor2023\Projeto\GreenTech\GreenTech\bin\Debug\net6.0\Humanizer.dll
+C:\Users\fabricio.lourenço\Desktop\Nova pasta\TrainneQuestor2023\Projeto\GreenTech\GreenTech\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\fabricio.lourenço\Desktop\Nova pasta\TrainneQuestor2023\Projeto\GreenTech\GreenTech\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\fabricio.lourenço\Desktop\Nova pasta\TrainneQuestor2023\Projeto\GreenTech\GreenTech\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\fabricio.lourenço\Desktop\Nova pasta\TrainneQuestor2023\Projeto\GreenTech\GreenTech\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\fabricio.lourenço\Desktop\Nova pasta\TrainneQuestor2023\Projeto\GreenTech\GreenTech\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\fabricio.lourenço\Desktop\Nova pasta\TrainneQuestor2023\Projeto\GreenTech\GreenTech\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\fabricio.lourenço\Desktop\Nova pasta\TrainneQuestor2023\Projeto\GreenTech\GreenTech\bin\Debug\net6.0\Npgsql.dll
+C:\Users\fabricio.lourenço\Desktop\Nova pasta\TrainneQuestor2023\Projeto\GreenTech\GreenTech\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\fabricio.lourenço\Desktop\Nova pasta\TrainneQuestor2023\Projeto\GreenTech\GreenTech\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\fabricio.lourenço\Desktop\Nova pasta\TrainneQuestor2023\Projeto\GreenTech\GreenTech\bin\Debug\net6.0\GreenTech.Domain.dll
+C:\Users\fabricio.lourenço\Desktop\Nova pasta\TrainneQuestor2023\Projeto\GreenTech\GreenTech\bin\Debug\net6.0\GreenTech.Repository.dll
+C:\Users\fabricio.lourenço\Desktop\Nova pasta\TrainneQuestor2023\Projeto\GreenTech\GreenTech\bin\Debug\net6.0\GreenTech.Service.dll
+C:\Users\fabricio.lourenço\Desktop\Nova pasta\TrainneQuestor2023\Projeto\GreenTech\GreenTech\bin\Debug\net6.0\GreenTech.Domain.pdb
+C:\Users\fabricio.lourenço\Desktop\Nova pasta\TrainneQuestor2023\Projeto\GreenTech\GreenTech\bin\Debug\net6.0\GreenTech.Service.pdb
+C:\Users\fabricio.lourenço\Desktop\Nova pasta\TrainneQuestor2023\Projeto\GreenTech\GreenTech\bin\Debug\net6.0\GreenTech.Repository.pdb
+C:\Users\fabricio.lourenço\Desktop\Nova pasta\TrainneQuestor2023\Projeto\GreenTech\GreenTech\obj\Debug\net6.0\GreenTech.csproj.AssemblyReference.cache
+C:\Users\fabricio.lourenço\Desktop\Nova pasta\TrainneQuestor2023\Projeto\GreenTech\GreenTech\obj\Debug\net6.0\GreenTech.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fabricio.lourenço\Desktop\Nova pasta\TrainneQuestor2023\Projeto\GreenTech\GreenTech\obj\Debug\net6.0\GreenTech.AssemblyInfoInputs.cache
+C:\Users\fabricio.lourenço\Desktop\Nova pasta\TrainneQuestor2023\Projeto\GreenTech\GreenTech\obj\Debug\net6.0\GreenTech.AssemblyInfo.cs
+C:\Users\fabricio.lourenço\Desktop\Nova pasta\TrainneQuestor2023\Projeto\GreenTech\GreenTech\obj\Debug\net6.0\GreenTech.csproj.CoreCompileInputs.cache
+C:\Users\fabricio.lourenço\Desktop\Nova pasta\TrainneQuestor2023\Projeto\GreenTech\GreenTech\obj\Debug\net6.0\GreenTech.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\fabricio.lourenço\Desktop\Nova pasta\TrainneQuestor2023\Projeto\GreenTech\GreenTech\obj\Debug\net6.0\GreenTech.RazorAssemblyInfo.cache
+C:\Users\fabricio.lourenço\Desktop\Nova pasta\TrainneQuestor2023\Projeto\GreenTech\GreenTech\obj\Debug\net6.0\GreenTech.RazorAssemblyInfo.cs
+C:\Users\fabricio.lourenço\Desktop\Nova pasta\TrainneQuestor2023\Projeto\GreenTech\GreenTech\obj\Debug\net6.0\staticwebassets\msbuild.GreenTech.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\fabricio.lourenço\Desktop\Nova pasta\TrainneQuestor2023\Projeto\GreenTech\GreenTech\obj\Debug\net6.0\staticwebassets\msbuild.build.GreenTech.props
+C:\Users\fabricio.lourenço\Desktop\Nova pasta\TrainneQuestor2023\Projeto\GreenTech\GreenTech\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.GreenTech.props
+C:\Users\fabricio.lourenço\Desktop\Nova pasta\TrainneQuestor2023\Projeto\GreenTech\GreenTech\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.GreenTech.props
+C:\Users\fabricio.lourenço\Desktop\Nova pasta\TrainneQuestor2023\Projeto\GreenTech\GreenTech\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\fabricio.lourenço\Desktop\Nova pasta\TrainneQuestor2023\Projeto\GreenTech\GreenTech\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\fabricio.lourenço\Desktop\Nova pasta\TrainneQuestor2023\Projeto\GreenTech\GreenTech\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\fabricio.lourenço\Desktop\Nova pasta\TrainneQuestor2023\Projeto\GreenTech\GreenTech\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\fabricio.lourenço\Desktop\Nova pasta\TrainneQuestor2023\Projeto\GreenTech\GreenTech\obj\Debug\net6.0\scopedcss\bundle\GreenTech.styles.css
+C:\Users\fabricio.lourenço\Desktop\Nova pasta\TrainneQuestor2023\Projeto\GreenTech\GreenTech\obj\Debug\net6.0\scopedcss\projectbundle\GreenTech.bundle.scp.css
+C:\Users\fabricio.lourenço\Desktop\Nova pasta\TrainneQuestor2023\Projeto\GreenTech\GreenTech\obj\Debug\net6.0\GreenTech.csproj.CopyComplete
+C:\Users\fabricio.lourenço\Desktop\Nova pasta\TrainneQuestor2023\Projeto\GreenTech\GreenTech\obj\Debug\net6.0\GreenTech.dll
+C:\Users\fabricio.lourenço\Desktop\Nova pasta\TrainneQuestor2023\Projeto\GreenTech\GreenTech\obj\Debug\net6.0\refint\GreenTech.dll
+C:\Users\fabricio.lourenço\Desktop\Nova pasta\TrainneQuestor2023\Projeto\GreenTech\GreenTech\obj\Debug\net6.0\GreenTech.pdb
+C:\Users\fabricio.lourenço\Desktop\Nova pasta\TrainneQuestor2023\Projeto\GreenTech\GreenTech\obj\Debug\net6.0\GreenTech.genruntimeconfig.cache
+C:\Users\fabricio.lourenço\Desktop\Nova pasta\TrainneQuestor2023\Projeto\GreenTech\GreenTech\obj\Debug\net6.0\ref\GreenTech.dll

@@ -1,0 +1,34 @@
+C:\Development\Workspace\GreenTech\GreenTech\GreenTech.Service\bin\Debug\net6.0\GreenTech.Service.deps.json
+C:\Development\Workspace\GreenTech\GreenTech\GreenTech.Service\bin\Debug\net6.0\GreenTech.Service.dll
+C:\Development\Workspace\GreenTech\GreenTech\GreenTech.Service\bin\Debug\net6.0\GreenTech.Service.pdb
+C:\Development\Workspace\GreenTech\GreenTech\GreenTech.Service\bin\Debug\net6.0\GreenTech.Domain.dll
+C:\Development\Workspace\GreenTech\GreenTech\GreenTech.Service\bin\Debug\net6.0\GreenTech.Repository.dll
+C:\Development\Workspace\GreenTech\GreenTech\GreenTech.Service\bin\Debug\net6.0\GreenTech.Domain.pdb
+C:\Development\Workspace\GreenTech\GreenTech\GreenTech.Service\bin\Debug\net6.0\GreenTech.Repository.pdb
+C:\Development\Workspace\GreenTech\GreenTech\GreenTech.Service\obj\Debug\net6.0\GreenTech.Service.csproj.AssemblyReference.cache
+C:\Development\Workspace\GreenTech\GreenTech\GreenTech.Service\obj\Debug\net6.0\GreenTech.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Development\Workspace\GreenTech\GreenTech\GreenTech.Service\obj\Debug\net6.0\GreenTech.Service.AssemblyInfoInputs.cache
+C:\Development\Workspace\GreenTech\GreenTech\GreenTech.Service\obj\Debug\net6.0\GreenTech.Service.AssemblyInfo.cs
+C:\Development\Workspace\GreenTech\GreenTech\GreenTech.Service\obj\Debug\net6.0\GreenTech.Service.csproj.CoreCompileInputs.cache
+C:\Development\Workspace\GreenTech\GreenTech\GreenTech.Service\obj\Debug\net6.0\GreenTech.Service.csproj.CopyComplete
+C:\Development\Workspace\GreenTech\GreenTech\GreenTech.Service\obj\Debug\net6.0\GreenTech.Service.dll
+C:\Development\Workspace\GreenTech\GreenTech\GreenTech.Service\obj\Debug\net6.0\refint\GreenTech.Service.dll
+C:\Development\Workspace\GreenTech\GreenTech\GreenTech.Service\obj\Debug\net6.0\GreenTech.Service.pdb
+C:\Development\Workspace\GreenTech\GreenTech\GreenTech.Service\obj\Debug\net6.0\ref\GreenTech.Service.dll
+C:\Users\fabricio.lourenço\Desktop\Nova pasta\TrainneQuestor2023\Projeto\GreenTech\GreenTech.Service\bin\Debug\net6.0\GreenTech.Service.deps.json
+C:\Users\fabricio.lourenço\Desktop\Nova pasta\TrainneQuestor2023\Projeto\GreenTech\GreenTech.Service\bin\Debug\net6.0\GreenTech.Service.dll
+C:\Users\fabricio.lourenço\Desktop\Nova pasta\TrainneQuestor2023\Projeto\GreenTech\GreenTech.Service\bin\Debug\net6.0\GreenTech.Service.pdb
+C:\Users\fabricio.lourenço\Desktop\Nova pasta\TrainneQuestor2023\Projeto\GreenTech\GreenTech.Service\bin\Debug\net6.0\GreenTech.Domain.dll
+C:\Users\fabricio.lourenço\Desktop\Nova pasta\TrainneQuestor2023\Projeto\GreenTech\GreenTech.Service\bin\Debug\net6.0\GreenTech.Repository.dll
+C:\Users\fabricio.lourenço\Desktop\Nova pasta\TrainneQuestor2023\Projeto\GreenTech\GreenTech.Service\bin\Debug\net6.0\GreenTech.Domain.pdb
+C:\Users\fabricio.lourenço\Desktop\Nova pasta\TrainneQuestor2023\Projeto\GreenTech\GreenTech.Service\bin\Debug\net6.0\GreenTech.Repository.pdb
+C:\Users\fabricio.lourenço\Desktop\Nova pasta\TrainneQuestor2023\Projeto\GreenTech\GreenTech.Service\obj\Debug\net6.0\GreenTech.Service.csproj.AssemblyReference.cache
+C:\Users\fabricio.lourenço\Desktop\Nova pasta\TrainneQuestor2023\Projeto\GreenTech\GreenTech.Service\obj\Debug\net6.0\GreenTech.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fabricio.lourenço\Desktop\Nova pasta\TrainneQuestor2023\Projeto\GreenTech\GreenTech.Service\obj\Debug\net6.0\GreenTech.Service.AssemblyInfoInputs.cache
+C:\Users\fabricio.lourenço\Desktop\Nova pasta\TrainneQuestor2023\Projeto\GreenTech\GreenTech.Service\obj\Debug\net6.0\GreenTech.Service.AssemblyInfo.cs
+C:\Users\fabricio.lourenço\Desktop\Nova pasta\TrainneQuestor2023\Projeto\GreenTech\GreenTech.Service\obj\Debug\net6.0\GreenTech.Service.csproj.CoreCompileInputs.cache
+C:\Users\fabricio.lourenço\Desktop\Nova pasta\TrainneQuestor2023\Projeto\GreenTech\GreenTech.Service\obj\Debug\net6.0\GreenTech.Service.csproj.CopyComplete
+C:\Users\fabricio.lourenço\Desktop\Nova pasta\TrainneQuestor2023\Projeto\GreenTech\GreenTech.Service\obj\Debug\net6.0\GreenTech.Service.dll
+C:\Users\fabricio.lourenço\Desktop\Nova pasta\TrainneQuestor2023\Projeto\GreenTech\GreenTech.Service\obj\Debug\net6.0\refint\GreenTech.Service.dll
+C:\Users\fabricio.lourenço\Desktop\Nova pasta\TrainneQuestor2023\Projeto\GreenTech\GreenTech.Service\obj\Debug\net6.0\GreenTech.Service.pdb
+C:\Users\fabricio.lourenço\Desktop\Nova pasta\TrainneQuestor2023\Projeto\GreenTech\GreenTech.Service\obj\Debug\net6.0\ref\GreenTech.Service.dll
